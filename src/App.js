@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="wrapper">
-        <a href="https://github.com/miguelferreira6/react-task-list" style="display: block;">
+        <a href="https://github.com/miguelferreira6/react-task-list" target="_blank">
           <img src="/images/logo.png" alt=""/>
           <h1>To-Do List</h1>
         </a>
